@@ -6,11 +6,11 @@ export default function App() {
     <View style={styles.container}>
       <Text>Hello World</Text>
        <Text>Muhammad Asif Ansari</Text>
+       <Text>Full Stack Developer</Text>
       <StatusBar style="auto" />
     </View>
   );
 }
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
