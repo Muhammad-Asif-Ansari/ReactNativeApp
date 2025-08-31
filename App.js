@@ -8,6 +8,8 @@ export default function App() {
        <Text>Muhammad Asif Ansari</Text>
        <Text>Full Stack Developer</Text>
     <Text>Start React Native for Mobile App</Text>
+    <Text>Muhammad Asif Ansari</Text>
+       <Text>Full Stack Developer</Text>
       <StatusBar style="auto" />
     </View>
   );
